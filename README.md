@@ -1,3 +1,3 @@
 # hotdog-app
 test sentence
-test sentence for new_branch
+test sentence for another_new_branch
